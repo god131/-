@@ -1,0 +1,3 @@
+＃-这是智能合约作业02的代码，
+思路：新增一个identity来判断当时用户的注册身份类型，分为admin和others两种，admin可以展示persons全部内容，others可以获取当前id和name下的数组的内容，来实现授权
+实力有限，代码报错
